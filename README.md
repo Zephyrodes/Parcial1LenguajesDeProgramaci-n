@@ -1,1 +1,1 @@
-# Parcial1LenguajesDeProgramaci-n
+# Parcial1LenguajesDeProgramacion
